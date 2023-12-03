@@ -1,0 +1,172 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    }
+
+.logo{
+width: 150px;
+margin-left: 50px;
+margin-top: 10px;
+}
+
+.header{
+    width: 100%;
+    box-shadow: 0 2px 0 0 rgb(195, 194, 194);
+    height: 60px;
+}
+
+.signin{
+   float: right; 
+   margin-right: 40px;
+   margin-bottom: 40px ;
+}
+
+.sing{
+    color: rgba(0, 81, 255, 0.773);
+}
+
+.titulo{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.rrss{
+    margin-left: 6%;
+    margin-top: 2%;
+    width: 600px;
+}
+.google{
+    display: inline-block;
+    background-color: rgba(49, 49, 190, 0.76);
+    border-radius: 3%;
+    text-align: center; 
+    height: 37px;
+    width: 173px;
+}
+    
+
+.img_g{
+    width: 30px;
+    vertical-align: middle; 
+    display: inline-block;
+    margin-top: 2%;
+    
+    
+
+}
+
+.enlaceg {
+    color: aliceblue;
+    display: inline-block; 
+    vertical-align: middle;
+}
+
+.pg{
+    display: inline-block; 
+    vertical-align: middle; 
+    
+}
+.facebook {
+    display: inline-block;
+    background-color: rgb(21 21 135 / 76%);
+    border-radius: 3%;
+    height: 37px;
+    width: 250px; 
+}
+
+.enlacef {
+    color: aliceblue;
+    display: inline-block; 
+}
+
+.img_f {
+    width: 30px;
+    vertical-align: middle;   
+    margin-top: 1%;
+}
+
+.pf {
+    display: inline-block; 
+    vertical-align: middle;
+    
+}
+
+.or{
+    margin-top: 2%;
+}
+
+.form{
+    margin-top: 2%;
+}
+
+.pass{
+    margin-top: 1%;
+}
+
+.checkbox{
+    margin-top: 2%;
+}
+
+.check{
+    vertical-align: middle;
+    display: inline-block
+    
+}
+
+.acepto{
+    vertical-align: middle;
+    margin: 0%;
+    display: inline-block;
+}
+
+span {
+    color: blue;
+}
+
+.negrita{
+    font-weight: bolder;
+}
+
+.crear{
+    border-style: dashed;
+    border-radius: 60px;
+    width: 290px;
+    height: 50px;
+    color: rgb(162, 164, 167);
+    position: relative;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.crearc{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.footer{
+    width: 100%;
+    box-shadow: 2px 2px 2px 2px; color: rgb(195, 194, 194);
+    height: 60px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
+
+ul{
+    color:rgb(195, 194, 194);
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+.a1{
+    margin-right: 100px;
+}
